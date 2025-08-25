@@ -1,0 +1,8 @@
+
+[
+  {"id":1,"name":"Тактична парка LION 01","price":2500,"image":"/images/parka.jpg"},
+  {"id":2,"name":"Кросівки LION Urban","price":1800,"image":"/images/sneakers.jpg"},
+  {"id":3,"name":"Худі LION Classic","price":1200,"image":"/images/hoodie.jpg"},
+  {"id":4,"name":"Жіноча вітровка LION Wind","price":1500,"image":"/images/windbreaker.jpg"},
+  {"id":5,"name":"Тактичний рюкзак LION Pack","price":2000,"image":"/images/backpack.jpg"}
+]
